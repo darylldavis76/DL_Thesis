@@ -13,3 +13,4 @@ plot-model
 pydot
 scikit-learn
 scipy
+tensorflow
