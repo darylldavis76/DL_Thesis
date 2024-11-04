@@ -1,0 +1,16 @@
+contourpy
+debugpy
+graphviz
+ipykernel
+keras
+keras-tuner
+matplotlib
+matplotlib-inline
+numpy
+pandas
+plotly
+plot-model
+pydot
+scikit-learn
+scipy
+tensorflow
